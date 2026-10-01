@@ -344,7 +344,7 @@ h3 {
 }
 
 .feature-video {
-  aspect-ratio: 2.18 / 1;
+  aspect-ratio: 16 / 7.8;
   background-image:
     linear-gradient(100deg, rgba(8, 9, 10, 0.82), rgba(8, 9, 10, 0.35)),
     repeating-linear-gradient(0deg, transparent, transparent 44px, rgba(255, 255, 255, 0.035) 45px),
@@ -482,7 +482,7 @@ h3 {
 }
 
 .work-video {
-  aspect-ratio: 1.58 / 1;
+  aspect-ratio: 16 / 9;
 }
 
 .project-info {
