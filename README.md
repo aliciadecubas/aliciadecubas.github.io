@@ -1,27 +1,19 @@
-# Alicia de Cubas Portfolio
+# Alicia de Cubas — Game Developer
 
-A lightweight static portfolio site. Edit the HTML directly; no build tools or JavaScript setup are required.
+I’m a game developer and programmer interested in building responsive gameplay, clear and engaging UI, and the technology that brings interactive experiences to life. I enjoy working across gameplay systems and lower-level engine development, and I’m always keen to learn by making games and exploring how they work.
 
-## Pages
+## Portfolio
 
-- `index.html` — introduction and featured projects
-- `about.html` — background, interests, and working style
-- `cv.html` — experience, education, and skills; use **Print / Save as PDF** to export it
-- `contact.html` — email and social links
+Visit the [portfolio website](https://aliciadecubas.github.io/) to see selected projects, learn more about my background, and get in touch.
 
-## Personalize it
+The portfolio includes:
 
-1. Search the HTML files for square-bracketed text such as `[Project name]` and replace it with your details.
-2. In `index.html`, replace each `<div class="video-slot">...</div>` with a video element. For example:
+- **Selected work** — projects in gameplay programming, procedural terrain, graphics, and engine development.
+- [About](about.html) — my background, interests, and approach to development.
+- [CV](cv.html) — my experience, education, and skills.
+- [Contact](contact.html) — ways to reach me.
 
-	 ```html
-	 <video class="project-video" controls playsinline preload="metadata">
-		 <source src="videos/project-one.mp4" type="video/mp4">
-	 </video>
-	 ```
+## Find me online
 
-	 Put the matching video file in a `videos` folder beside `index.html`. Keep the `project-video` class so the clip stays responsive.
-3. Replace `your@email.com` in `contact.html` with your public contact email.
-4. Update the project cards, skills, CV entries, and social links so they reflect your own experience. Duplicate a `<article class="project">` in `index.html` to feature another project.
-
-The layout and animations adapt to mobile screens and respect reduced-motion settings. The CV page has a print stylesheet for exporting a clean PDF.
+- [GitHub](https://github.com/aliciadecubas)
+- [LinkedIn](https://www.linkedin.com/in/alicia-de-cubas-yarza-551598387/)
