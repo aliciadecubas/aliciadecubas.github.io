@@ -290,6 +290,10 @@ h3 {
   border-bottom: 1px solid var(--border);
 }
 
+.section-heading .eyebrow {
+  font-size: 12px;
+}
+
 .all-projects-link {
   color: var(--muted);
   font-family: "IBM Plex Mono", "Courier New", monospace;
