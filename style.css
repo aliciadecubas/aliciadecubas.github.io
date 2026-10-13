@@ -484,9 +484,13 @@ h3 {
 }
 
 .focus-list li::before {
-  margin-right: 10px;
-  color: var(--accent);
-  content: "↗";
+  width: 6px;
+  height: 6px;
+  margin: 0 12px 2px 1px;
+  display: inline-block;
+  border-radius: 50%;
+  background: var(--accent);
+  content: "";
 }
 
 .cv-toolbar {
